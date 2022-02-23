@@ -119,7 +119,7 @@ Then:
 ```bash
 $ bundle update
 $ bundle exec rake --quiet
-$ ./tesh.sh
+$ ./test.sh
 ```
 
 The build has to be clean. If it's not, [submit an issue](https://github.com/zold-io/out/issues).
